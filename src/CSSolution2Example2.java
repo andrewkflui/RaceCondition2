@@ -17,6 +17,7 @@ public class CSSolution2Example2 {
     private static int countError = 0;
     private static boolean p1 = false;
     private static boolean p2 = false;
+    private static Object obj = new Object();
 
     private static boolean isFlagTrue() {
         return Buffer.flag;
