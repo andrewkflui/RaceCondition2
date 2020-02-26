@@ -28,7 +28,7 @@ public class CSSolution2Example1 {
         public void run() {
             for (int i = 0; i < TARGET; i++) {
                 flagA = true;
-                // UNCOMMENT THE FOLLOWING while loop to activate Soluton 2
+                // UNCOMMENT THE FOLLOWING while loop to activate Solution 2
                 while (flagB);
                 a = a + 1;
                 flagA = false;
@@ -41,7 +41,7 @@ public class CSSolution2Example1 {
         public void run() {
             for (int i = 0; i < TARGET; i++) {
                 flagB = true;
-                // UNCOMMENT THE FOLLOWING while loop to activate Soluton 2
+                // UNCOMMENT THE FOLLOWING while loop to activate Solution 2
                 while (flagA);
                 b = b + 1;
                 flagB = false;
